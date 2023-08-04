@@ -1,5 +1,7 @@
 # Bug Bounties: An Open Letter to The Decentral Games Community
 
+![ICE Poker is in beta](ice-poker-is-in-beta.png)
+
 ## The Infinite Chips Glitch
 
 Sers,
